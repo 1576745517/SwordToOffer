@@ -1,7 +1,7 @@
 package SwordToOffer;
 
 /**
- * @Classname IsContainsFromTwoDimensionalArray
+ * @Classname No001_IsContainsFromTwoDimensionalArray
  * @Description
  * 在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，
  * 每一列都按照从上到下递增的顺序排序。
@@ -9,7 +9,7 @@ package SwordToOffer;
  * @Date 2019/10/12 13:55
  * @Created by xgt
  */
-public class IsContainsFromTwoDimensionalArray {
+public class No001_IsContainsFromTwoDimensionalArray {
     public static void main(String[] args) {
         int target = 2;
         int [][] array = {{1,3,5},{2,4,6},{7,8,9}};
