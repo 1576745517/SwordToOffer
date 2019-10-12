@@ -1,4 +1,4 @@
-package SwordToOffer;
+package swordToOffer;
 
 /**
  * @Classname No001_IsContainsFromTwoDimensionalArray
